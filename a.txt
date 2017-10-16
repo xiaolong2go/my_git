@@ -4,4 +4,6 @@ def test():
 def test1():
     print('test1')
 
+def test2():
+    print('你是一只猪!')
 
