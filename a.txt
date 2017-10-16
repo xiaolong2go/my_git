@@ -4,6 +4,8 @@ def test():
 def test1():
     print('test1')
 
+def test2():
+    print('你是一只猪!')
 
 def test3():
     print('这是在A分支里面添加的新功能')
